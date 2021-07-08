@@ -1,8 +1,12 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=EB5757&fontColor=FFFFFF&text=Hi,%20I'm%20Chanhee&animation=blink&fontAlignY=40)
+
+</div>
 
 
 <div align="center">
-    <h5>🌏 Studying and Exploring the ( Hello ) World 🌏</h5>
+    <h3>🌏 Studying and Exploring the ( Hello ) World 🌏</h3>
 </div>
 
 <br/>
@@ -51,13 +55,10 @@
 <div align="center">
 <h3 align="center">🔥 My GitHub 🔥</h3>
 
-[![Chanhee's Github Stats](https://github-readme-stats.vercel.app/api?username=chaneeii&theme=vue&show_icons=true)](https://github.com/chaneeii)
-
-
+[![Chanhee's Github Stats](https://github-readme-stats.vercel.app/api?username=chaneeii&theme=vue&show_icons=true&hide_title=true&)](https://github.com/chaneeii)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaneeii&theme=vue&layout=compact)](https://github.com/chaneeii)
 
 </div>
-
 
 
 <div align="center">
