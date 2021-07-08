@@ -37,6 +37,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaneeii&count_bg=%23EB5757&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 [![Chanhee's Github Stats](https://github-readme-stats.vercel.app/api?username=chaneeii&theme=vue&show_icons=true)](https://github.com/chaneeii)
+ 
+<br/>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaneeii&theme=vue&layout=compact)](https://github.com/chaneeii)
 
 </div>
