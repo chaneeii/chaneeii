@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=EB5757&fontColor=FFFFFF&text=Hi,%20I'm%20Chanhee&animation=blink&fontAlignY=40)
 
 
-<p align="center">
-    🌏 Studying and Exploring the ( Hello ) World 🌏
-</p>
+<div align="center">
+    <h5>🌏 Studying and Exploring the ( Hello ) World 🌏</h5>
+</div>
 
 <br/>
 <br/>
@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/></a>&nbsp
     <br/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -77,7 +78,7 @@ https://simpleicons.org/
 **chaneeii/chaneeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -86,4 +87,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👨‍💻 All of my projects are available at
 -->
