@@ -5,13 +5,16 @@
          
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaneeii&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=%F0%9F%94%A5+hits&edge_flat=true"/></a>
 
-<h2>🚀 About Me</h2>
+<br/>
+
+<h3>🚀 About Me</h3>
 
 🌱 I’m currently learning `iOS Development`
 
+
 <!-- CONTACT -->
 <br/>
-<h2>✨ Reach Me</h2>
+<h3>✨ Reach Me</h3>
     <p>
       <a href="https://velog.io/@averycode"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@averycode"/></a>&nbsp
       <a href="mailto:chan420420@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chan420420@gmail.com"/></a>&nbsp
@@ -20,7 +23,7 @@
 <br/>
 
 
-<h2>⌨️ My GitHub</h2>
+<h3>⌨️ My GitHub</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaneeii&theme=graywhite&layout=compact)](https://github.com/chaneeii)
 
