@@ -1,4 +1,4 @@
-<h1 align="left"> Hi there, I'm Chanhee <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" 
+<h1 align="left"> Hi there,<br/> I'm Chanhee <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> </h1>
