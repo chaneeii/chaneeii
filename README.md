@@ -9,7 +9,37 @@
 
 <h3>🚀 About Me</h3>
 
-🌱 I’m currently learning `iOS Development`
+> 🌱 I’m currently learning `iOS Development`
+
+<br/>
+
+<h3>🏫 Education</h3>
+
+- _03.2022 - Present : Apple Developer Academy @POSTECH_
+  - Junior Learner
+
+- _03.2017 - 08.2021 : Konkuk University_
+  - Bachelor of Smart ICT Convergence (Computer Sciences)
+
+- _02.2019 - 08.2019 : Frankfurt University Of Applied Sciences_
+  - Computer Science – Mobile Applications                                       
+
+<br/>
+
+<h3>👩‍💻 Work Experiences</h3>
+
+
+- _07.2021 - 03.2022 : Hotel Lotte CO., LTD. Lotte World_
+  - IT PM/PMO
+  - Worked for IT Project Management | Digital/ICT/IT Strategy | Digital Transformation
+
+- _03.2017 - 08.2021 : Market Designers_
+  - Web Front-end Developer 
+  - Techniques that I used : React, TypeScript, Redux, Redux-Saga, Styled-Components, Cypress
+
+- _02.2019 - 08.2019 : Nintendo Of Europe, Frankfurt_
+  - Intern Marketing PR & Corporate Communications                                      
+  - Worked for European Marketing, PR, Application of IT technology in marketing
 
 
 <!-- CONTACT -->
