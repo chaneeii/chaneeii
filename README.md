@@ -25,6 +25,7 @@
 
 <br/>
 
+<!--
 <h3>🏫 Education</h3>
 
 - _03.2022 - Present : Apple Developer Academy @POSTECH_
@@ -54,6 +55,7 @@
   - Worked for European Marketing, PR, Application of IT technology in marketing
 
 <br/>
+-->
 
 <h3>📱 Launched Apps</h3>
 
