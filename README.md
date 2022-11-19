@@ -12,7 +12,7 @@
 <h3>🚀 About Me</h3>
 
 🌱 I’m currently learning `iOS Development` <br/>
-📝 I post and share my day-to-day studies, activies and experiences on <a href="https://github.com/chaneeii/iOS-Study-Archive"><img src="https://img.shields.io/badge/iOS%20Study%20Log-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/chaneeii/iOS-Study-Log"/></a>
+📝 I post and share my day-to-day studies, activies and experiences on <a href="https://github.com/chaneeii/iOS-Study-Archive"><img src="https://img.shields.io/badge/iOS%20Study%20Log-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/chaneeii/iOS-Study-Log"/></a> <br/>
 📝 I steadily post some articles on <a href="https://chanhee-jeong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://chanhee-jeong.tistory.com/"/></a> <a href="https://velog.io/@averycode"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@averycode"/></a> <br/>
 
 
