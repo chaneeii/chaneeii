@@ -4,21 +4,16 @@
          width="45" /> </h1>
          
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaneeii&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=%F0%9F%94%A5+hits&edge_flat=true"/></a>
+<a href="mailto:chan420420@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chan420420@gmail.com"/></a> <a href="https://www.linkedin.com/in/chanhee-jeong/"><img src="https://img.shields.io/badge/Linked%20In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/chanhee-jeong/"/></a>
+
 
 <br/>
 
 <h3>🚀 About Me</h3>
 
 🌱 I’m currently learning `iOS Development` <br/>
-📝 I steadily post some articles on <a href="https://chanhee-jeong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://chanhee-jeong.tistory.com/"/></a> <a href="https://velog.io/@averycode"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@averycode"/></a> <br/>
 📝 I post and share my day-to-day studies, activies and experiences on <a href="https://github.com/chaneeii/iOS-Study-Archive"><img src="https://img.shields.io/badge/iOS%20Study%20Log-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/chaneeii/iOS-Study-Log"/></a>
-
-<!-- CONTACT -->
-<br/>
-<h3>✨ Reach Me</h3>
-<p>
-
-<a href="mailto:chan420420@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chan420420@gmail.com"/></a> <a href="https://www.linkedin.com/in/chanhee-jeong/"><img src="https://img.shields.io/badge/Linked%20In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/chanhee-jeong/"/></a>
+📝 I steadily post some articles on <a href="https://chanhee-jeong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://chanhee-jeong.tistory.com/"/></a> <a href="https://velog.io/@averycode"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@averycode"/></a> <br/>
 
 
 
