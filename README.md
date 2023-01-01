@@ -83,7 +83,7 @@
 **Knowledgeable**
 
 <p>
-    <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a> &nbsp
+<!--     <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a> &nbsp -->
     <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp
     <br/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
