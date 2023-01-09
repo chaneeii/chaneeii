@@ -56,7 +56,9 @@
 - [돈.워리 : 영리한 정산앱](https://apps.apple.com/kr/app/%EB%8F%88-%EC%9B%8C%EB%A6%AC/id1643097323)
 - [Sleepie](https://apps.apple.com/kr/app/sleepie/id6443555386)
 - [썸머: 네컷앨범](https://apps.apple.com/kr/app/%EC%8D%B8%EB%A8%B8-%EB%84%A4%EC%BB%B7%EC%95%A8%EB%B2%94/id6443647536)
-- [ZESTY: 맛집리스트](https://apps.apple.com/app/id6443997570)
+- [~~ZESTY: 맛집리스트~~](https://apps.apple.com/app/id6443997570) (지원임시중단)
+- [~~advent.~~](https://apps.apple.com/us/app/advent/id6444808029) (지원중단 - 12월 한정)
+- [하루하나 - 나만의챌린지](https://apps.apple.com/us/app/%ED%95%98%EB%A3%A8%ED%95%98%EB%82%98-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%B1%8C%EB%A6%B0%EC%A7%80/id1662098410)
 
 <br/>
 
