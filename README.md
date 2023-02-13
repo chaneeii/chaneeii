@@ -60,8 +60,11 @@
 - [~~advent.~~](https://apps.apple.com/us/app/advent/id6444808029) (지원중단 - 12월 한정)
 - [하루하나 - 나만의챌린지](https://apps.apple.com/us/app/%ED%95%98%EB%A3%A8%ED%95%98%EB%82%98-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%B1%8C%EB%A6%B0%EC%A7%80/id1662098410)
 
-<br/>
+
 <!-- 
+
+<br/>
+
 <h3>⌨️ Skills</h3>
 
 **Strong**
@@ -85,7 +88,9 @@
 **Knowledgeable**
 
 <p>
-<!--     <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a> &nbsp -->
+
+   
+<img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp
     <br/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
@@ -107,20 +112,9 @@
 </p>
 
 
+-->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaneeii&theme=graywhite&layout=compact)](https://github.com/chaneeii)
 
-
-
-<!-- GITHUB INFOS 
-<br/>
-<div align="center">
-<h3 align="center">🔥 My GitHub 🔥</h3>
-
-[![Chanhee's Github Stats](https://github-readme-stats.vercel.app/api?username=chaneeii&theme=vue&show_icons=true&hide_title=true&)](https://github.com/chaneeii)
-    <br/>
-
-
-</div>
--->
 
